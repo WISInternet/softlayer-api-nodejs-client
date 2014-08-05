@@ -1,0 +1,43 @@
+{
+  "name": "softlayer-api-nodejs-client",
+  "version": "0.0.1",
+  "description": "SoftLayer APIs Client Library for Node.js",
+  "main": "./lib/softlayerapis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WISInternet/softlayer-api-nodejs-client.git"
+  },
+  "keywords": [
+    "softlayer",
+    "api",
+    "softlayer",
+    "api",
+    "client",
+    "client",
+    "library"
+  ],
+  "author": "Chieh-Wen Yang",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/WISInternet/softlayer-api-nodejs-client/issues"
+  },
+  "homepage": "https://github.com/WISInternet/softlayer-api-nodejs-client",
+  "dependencies": {
+    "async": "^0.9.0",
+    "multipart-stream": "^1.0.0",
+    "request": "^2.39.0"
+  },
+  "devDependencies": {
+    "js-beautify": "^1.5.1",
+    "jsdoc": "^3.3.0-alpha9",
+    "mkdirp": "^0.5.0",
+    "mocha": "^1.21.3",
+    "nock": "^0.43.1",
+    "rimraf": "^2.2.8",
+    "swig": "^1.4.2",
+    "url": "^0.10.1"
+  }
+}
